@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AXPeo+iyUxw2vbK3Q0p39T8jjnQsyzrvYR/WoK7Pael/xdiloBV2i2vHytxP0eToJT73gis/tOkVvE04U7cI5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zane.gray\\workspace\\tmp\\webapi\\webapi.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zane.gray\\.nuget\\packages\\fsharp.core\\6.0.1\\fsharp.core.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

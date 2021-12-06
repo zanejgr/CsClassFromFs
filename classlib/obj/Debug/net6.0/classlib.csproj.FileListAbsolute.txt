@@ -1,0 +1,12 @@
+C:\Users\zane.gray\workspace\tmp\classlib\bin\Debug\net6.0\classlib.deps.json
+C:\Users\zane.gray\workspace\tmp\classlib\bin\Debug\net6.0\classlib.dll
+C:\Users\zane.gray\workspace\tmp\classlib\bin\Debug\net6.0\ref\classlib.dll
+C:\Users\zane.gray\workspace\tmp\classlib\bin\Debug\net6.0\classlib.pdb
+C:\Users\zane.gray\workspace\tmp\classlib\obj\Debug\net6.0\classlib.csproj.AssemblyReference.cache
+C:\Users\zane.gray\workspace\tmp\classlib\obj\Debug\net6.0\classlib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zane.gray\workspace\tmp\classlib\obj\Debug\net6.0\classlib.AssemblyInfoInputs.cache
+C:\Users\zane.gray\workspace\tmp\classlib\obj\Debug\net6.0\classlib.AssemblyInfo.cs
+C:\Users\zane.gray\workspace\tmp\classlib\obj\Debug\net6.0\classlib.csproj.CoreCompileInputs.cache
+C:\Users\zane.gray\workspace\tmp\classlib\obj\Debug\net6.0\classlib.dll
+C:\Users\zane.gray\workspace\tmp\classlib\obj\Debug\net6.0\ref\classlib.dll
+C:\Users\zane.gray\workspace\tmp\classlib\obj\Debug\net6.0\classlib.pdb
